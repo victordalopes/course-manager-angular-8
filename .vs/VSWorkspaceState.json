@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\node_modules\\font-awesome",
+    "\\node_modules\\font-awesome\\css",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\core",
+    "\\src\\app\\courses",
+    "\\src\\app\\shared\\component",
+    "\\src\\app\\shared\\component\\star",
+    "\\src\\app\\shared\\pipe"
+  ],
+  "SelectedNode": "\\src\\app\\core\\component",
+  "PreviewInSolutionExplorer": false
+}
